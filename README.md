@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyal
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter
+- 🌱 I love to code and solve complex problems.
 
 - 
 
