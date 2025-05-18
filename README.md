@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I love to code and solve complex problems.
 
-- 
+- I love exploring AI/ML.
 
 <!---
 priyalsharma28/priyalsharma28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
