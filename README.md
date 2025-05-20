@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyal
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development using Python.
 - 🌱 I love to code and solve complex problems.
 
 - I love exploring AI/ML.
